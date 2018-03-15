@@ -1,0 +1,39 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "devDependencies": {
+        "axios": "^0.17",
+        "babel-runtime": "^5.8.0",
+        "bootstrap-sass": "^3.3.7",
+        "chart.js": "2.3.0",
+        "cross-env": "^5.1.4",
+        "datatables.net": "^1.10.11",
+        "datatables.net-bs": "^1.10.11",
+        "es6-promise": "^4.2.4",
+        "faker": "^3.1.0",
+        "hideseek": "^0.7.0",
+        "http-server": "^0.9.0",
+        "jquery": "^3.3.1",
+        "laravel-mix": "^1.0",
+        "lodash": "^4.17.5",
+        "moment": "^2.21.0",
+        "vue": "^2.5.15",
+        "vue-date-picker": "^1.0.2",
+        "vue-resource": "^1.5.0",
+        "vue-router": "^2.2.0",
+        "vuex": "^2.0.0",
+        "vuex-router-sync": "^4.1.2"
+    },
+    "dependencies": {
+        "clipboard": "^2.0.0",
+        "font-awesome": "^4.7.0"
+    }
+}
