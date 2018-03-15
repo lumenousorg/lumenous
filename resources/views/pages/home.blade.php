@@ -74,83 +74,127 @@
 
                     <div class="card fill-highlight2 text-light">
                         <div class="content">
-                            <img src="" class="img-responsive" />
-                            <h3 class="card-title mt-0">Direct Relief</h3>
-                            <div class="card-description">
-                                <p>
-                                    Life-saving medical aid without regard to politics, religion, or ability to pay.
-                                    Improve the health and lives of people affected by poverty and emergencies.
-                                </p>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="bg-white-round text-center">
+                                        
+                                        <img src="/img/charities/direct-relief.png" class="text-center img-responsive" title="Direct Relief" />
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h3 class="card-title mt-0">Direct Relief</h3>
+                                    <div class="card-description">
+                                        <p>
+                                            Life-saving medical aid without regard to politics, religion, or ability to pay.
+                                            Improve the health and lives of people affected by poverty and emergencies.
+                                        </p>
 
-                                <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3626" target="_blank" class="btn btn-sm btn-info">View Rating</a>
-                                <a href="http://www.directrelief.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                        <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3626" target="_blank" class="btn btn-sm btn-info">View Rating</a>
+                                        <a href="http://www.directrelief.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="card fill-highlight2 text-light">
                         <div class="content">
-                            <img src="" class="img-responsive" />
-                            <h3 class="card-title mt-0">Water Mission</h3>
-                            <div class="card-description">
-                                <p>
-                                    With your help, Water Mission builds sustainable solutions for people suffering from water
-                                    scarcity. They provide hope through solar-powered safe water solutions that meet the needs
-                                    of entire communities.
-                                </p>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="bg-white-round text-center">
+                                        <img src="/img/charities/water-mission.png" class="text-center img-responsive" title="Water Mission" />
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h3 class="card-title mt-0">Water Mission</h3>
+                                    <div class="card-description">
+                                        <p>
+                                            With your help, Water Mission builds sustainable solutions for people suffering from water
+                                            scarcity. They provide hope through solar-powered safe water solutions that meet the needs
+                                            of entire communities.
+                                        </p>
 
-                                <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=10709" target="_blank" class="btn btn-sm btn-info">View Rating</a>
-                                <a href="http://www.watermission.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                        <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=10709" target="_blank" class="btn btn-sm btn-info">View Rating</a>
+                                        <a href="http://www.watermission.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="card fill-highlight2 text-light">
                         <div class="content">
-                            <img src="" class="img-responsive" />
-                            <h3 class="card-title mt-0">MAP International</h3>
-                            <div class="card-description">
-                                <p>
-                                    MAP International is a Christian organization providing life-changing medicines and
-                                    health supplies to people in need. MAP serves all people, regardless of religion, gender,
-                                    race, nationality, or ethnic background.
-                                </p>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="bg-white-round text-center">
+                                        
+                                        <img src="/img/charities/map-international.jpg" class="text-center img-responsive" title="MAP International" />
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h3 class="card-title mt-0">MAP International</h3>
+                                    <div class="card-description">
+                                        <p>
+                                            MAP International is a Christian organization providing life-changing medicines and
+                                            health supplies to people in need. MAP serves all people, regardless of religion, gender,
+                                            race, nationality, or ethnic background.
+                                        </p>
 
-                                <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4042" target="_blank" class="btn btn-sm btn-info">View Rating</a>
-                                <a href="http://www.map.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                        <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4042" target="_blank" class="btn btn-sm btn-info">View Rating</a>
+                                        <a href="http://www.map.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="card fill-highlight2 text-light">
                         <div class="content">
-                            <img src="" class="img-responsive" />
-                            <h3 class="card-title mt-0">Environmental Defense Fund</h3>
-                            <div class="card-description">
-                                <p>
-                                    Since 1967, the EDF has found innovative ways to solve big environmental problems. The
-                                    EDF focuses on stabilizing the climate, feeding the world, and protecting our health.
-                                </p>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="bg-white-round text-center">
+                                        
+                                        <img src="/img/charities/environmental-defense-fund.jpg" class="text-center img-responsive" title="Environmental Defense Fund" />
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h3 class="card-title mt-0">Environmental Defense Fund</h3>
+                                    <div class="card-description">
+                                        <p>
+                                            Since 1967, the EDF has found innovative ways to solve big environmental problems. The
+                                            EDF focuses on stabilizing the climate, feeding the world, and protecting our health.
+                                        </p>
 
-                                <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3671" target="_blank" class="btn btn-sm btn-info">View Rating</a>
-                                <a href="https://www.edf.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                        <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3671" target="_blank" class="btn btn-sm btn-info">View Rating</a>
+                                        <a href="https://www.edf.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="card fill-highlight2">
                         <div class="content">
-                            <img src="" class="img-responsive" />
-                            <h3 class="card-title mt-0">Books For Africa</h3>
-                            <div class="card-description">
-                                <p>
-                                    Books for Africa collects, sorts, ships, and distributes books to students of all ages
-                                    in Africa. Their goal: to end the book famine in Africa. Books For Africa remains
-                                    the largest shipper of donated text and library books to the African continent.
-                                </p>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="bg-white-round text-center">
+                                        
+                                        <img src="/img/charities/books-for-africa.png" class="text-center img-responsive" title="Books For Africa" />
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h3 class="card-title mt-0">Books For Africa</h3>
+                                    <div class="card-description">
+                                        <p>
+                                            Books for Africa collects, sorts, ships, and distributes books to students of all ages
+                                            in Africa. Their goal: to end the book famine in Africa. Books For Africa remains
+                                            the largest shipper of donated text and library books to the African continent.
+                                        </p>
 
-                                <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3373" target="_blank" class="btn btn-sm btn-info">View Rating</a>
-                                <a href="http://www.booksforafrica.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                        <a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3373" target="_blank" class="btn btn-sm btn-info">View Rating</a>
+                                        <a href="http://www.booksforafrica.org/" target="_blank" class="btn btn-sm btn-info">Visit Website</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

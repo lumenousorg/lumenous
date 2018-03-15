@@ -285,3 +285,22 @@ blockquote {
 .bg-success { background-color: $brand-success; }
 .bg-warning { background-color: $brand-warning; }
 .bg-danger { background-color: $brand-danger; }
+
+.flexbox {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+
+  .col {
+    flex: 1;
+  }
+}
+
+.bg-white-round {
+  @include border-radius(6px);
+  background-color: #fff;
+  padding: 10px;
+  overflow: hidden;
+  height: 100%;
+}

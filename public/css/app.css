@@ -11755,3 +11755,36 @@ blockquote {
   background-color: #f44336;
 }
 
+.flexbox {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  overflow: hidden;
+}
+
+.flexbox .col {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.bg-white-round {
+  border-radius: 6px;
+  background-color: #fff;
+  padding: 10px;
+  overflow: hidden;
+  height: 100%;
+}
+
+.bg-white-round .shim {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.bg-white-round img {
+  display: inline-block;
+  vertical-align: middle;
+  max-height: 100px;
+}
+
